@@ -1,10 +1,10 @@
 ### PRIVACY NOTICE
-Last updated November 06, 2022
+Last updated November 20, 2022
 
 This privacy notice for Lalrem Lian B Tlung ("Company," "we," "us," or  "our"),	 	
 describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-- Download and use our mobile application (Mini Labu), or any other  application	 	
+- Download and use our mobile application (Mini Bawm Labu), or any other  application	 	
 of ours that links to this privacy notice
  
 - Engage with us in other related ways, including any sales, marketing, or events
@@ -250,4 +250,6 @@ If you have questions or comments about this notice, you may email us at
 
 lazy.developer@techie.com or by post to:
 
-Lalrem Lian B Tlung Dhaka, Bangladesh
+Lalrem Lian B Tlung 
+
+Dhaka, Bangladesh
